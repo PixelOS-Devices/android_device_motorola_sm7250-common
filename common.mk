@@ -172,6 +172,10 @@ PRODUCT_PACKAGES += \
 # Kernel
 PRODUCT_ENABLE_UFFD_GC := true
 
+# Launcher
+PRODUCT_PACKAGES += \
+    NexusLauncherOverlay
+
 # Lineage Health
 PRODUCT_PACKAGES += \
     vendor.lineage.health-service.default
