@@ -221,6 +221,7 @@ persist.vendor.radio.flexmap_type=none
 persist.vendor.radio.enable_temp_dds=true
 
 # SurfaceFlinger
+ro.surface_flinger.blur_disabled_by_default=true
 ro.surface_flinger.has_wide_color_display=true
 ro.surface_flinger.has_HDR_display=true
 ro.surface_flinger.supports_background_blur=1
