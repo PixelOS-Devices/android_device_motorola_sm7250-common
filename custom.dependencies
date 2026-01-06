@@ -9,8 +9,8 @@
     "branch": "lineage-23.1"
   },
   {
-    "repository": "PixelOS-Devices/android_kernel_motorola_sm7250",
-    "target_path": "kernel/motorola/sm7250"
+    "repository": "PixelOS-Devices/android_kernel_motorola_sm8250",
+    "target_path": "kernel/motorola/sm8250"
   },
   {
     "remote": "gitlab",
