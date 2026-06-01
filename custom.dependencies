@@ -6,7 +6,7 @@
   {
     "repository": "LineageOS/android_hardware_sony_timekeep",
     "target_path": "hardware/sony/timekeep",
-    "branch": "lineage-23.1"
+    "branch": "lineage-23.2"
   },
   {
     "repository": "PixelOS-Devices/android_kernel_motorola_sm8250",
